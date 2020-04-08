@@ -1,4 +1,4 @@
-# lstm_rl_music_generator
+# lstm-rl-music-generator
 This project aims at combining DNN and RL for musical purposes. It is inspired by the magenta paper/implmentation:
 *"Tuning Recurrent Neural Networks with Reinforcement Learning"*
 
